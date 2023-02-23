@@ -1,6 +1,6 @@
-def add(a, b):
+def subtract(a,b):
     try:
-        z = a + b
+        z = a - b
     except:
         return "Error"
     return z
